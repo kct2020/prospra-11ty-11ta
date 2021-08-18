@@ -3,6 +3,7 @@
 Project notes here with original README below. Then I'll rewrite this if it works. Initially, I want to: 
 - deploy to Cloudflare Pages (Deploy CP). 
 - configure site basics (1st Config).
+- improve & customize 404 page
 - produce a version where variables are marked KCT_Template_Field so simply search for site variables and edit in Github as part of first step (Cloudflare Pages Deploy)
 
 
@@ -10,18 +11,44 @@ Then later:
 - add PWA capabilities, including push notifications (OneSignal).
 Amend this todo list as project progresses. Adding detailed notes below with latest changes first
 
-## yymm02a Branch3
+## 210818c Develop Content
+- about.md
+- /src/posts/*.md
 
-## yymmddb Branch2
+## 210818b 1st Config
+Usually, I create a 1st Config branch to get a working site with config changes as per original README instructions and note files changed with any additional notes. Most of this detail is deleted from final README, but it serves to keep track of installation progress. The configuration is described on the Home page:
+- /src/_data/meta.js 
+   - KCT_TEMPLATE_siteName        PROSPRA Activity Arranger
+   - KCT_TEMPLATE_siteDescription 7 Step Problem Solver & Task Organizer using PROSPRA Activity Arranger
+   - KCT_TEMPLATE_siteImage       [to set]
+   - KCT_TEMPLATE_authorName      Keith Taylor
+   - KCT_TEMPLATE_authorURL       keith-taylor
+   - KCT_TEMPLATE_authorEmail     shrewdies@gmail.com
+   - KCT_TEMPLATE_twitterSite     @KeithTaylor
+   - KCT_TEMPLATE_twitterCreator  @KeithTaylor
+   - KCT_TEMPLATE_address: {
+		street: '123 Main Street',
+		city: 'Anytown',
+		state: 'KZ',
+		zip: '54321',
+		phoneDisplay: '+1 (123) 456-7890',
+		phoneCall: '+11234567890',
+		email: 'hello@domain.com',
+	}
+- index.md
+    - _KCT_TEMPLATE_HomePage_Title_ PROSPRA Activity Arranger
+    - _KCT_TEMPLATE_Original_URL_   https://prospra.com/
+    - _KCT_TEMPLATE_Source_         11TA - 11ty, TailwindCSS, & Alpine.js Template
+    - _KCT_TEMPLATE_headingText_    Did you bite off more tasks<br /> than you can chew?
+    - _KCT_TEMPLATE_subheadingText_ Sink your keith into better activity arranging!
 
-## yymmdda 1st Config
-Usually, I create a 1st Config branch to get a working site with config changes as per original README instructions and note files changed with any additional notes. Most of this detail is deleted from final README, but it serves to keep track of installation progress. At first sight, the configuration appears to be described in the About page. So, I'll check and amend my default list:
-- author.json
-- menu.json
-- site.js
+authorURL links to authors page, so that needs customizing. 
 
 ## 210818a Deploy CP
-ISC license added.
+ISC license added. Note, Cloudflare Pages default settings for Eleventy don't work on this template. Although they could be amended, the easiest way is to change CP defaults to settings from netlify.toml. Namely...
+- Build command: npm run build
+- Build output directory: /dist 
+Otherwise, Tailwind doesn't get installed.
 
 ## Original 11TA README below...
 

@@ -1,16 +1,16 @@
 module.exports = {
 	siteURL: process.env.URL || 'http://localhost:8080',
-	siteName: "Shane Robinson's 11ty | TailwindCSS | Alpine.js Template",
+	siteName: "PROSPRA Activity Arranger",
 	siteDescription:
-		'A highly configurable 11ty template to quickly spin up a fully functional website with TailwindCSS and Alpine.js baked in.',
+		'7 Step Problem Solver & Task Organizer using PROSPRA Activity Arranger.',
 	siteImage: '/assets/images/site/default.png',
 	lang: 'en',
 	locale: 'en_us',
-	authorName: 'Shane Robinson',
-	authorURL: 'shane-robinson',
-	authorEmail: 'shane@shanerobinson.com',
-	twitterSite: '@shanerobinson',
-	twitterCreator: '@shanerobinson',
+	authorName: 'Keith Taylor',
+	authorURL: 'keith-taylor',
+	authorEmail: 'shrewdies@gmail.com',
+	twitterSite: '@KeithTaylor',
+	twitterCreator: '@KeithTaylor',
 	address: {
 		street: '123 Main Street',
 		city: 'Anytown',
