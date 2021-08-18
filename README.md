@@ -1,3 +1,33 @@
+# PROSPRA.com Cloudflare Pages version
+
+Project notes here with original README below. Then I'll rewrite this if it works. Initially, I want to: 
+- deploy to Cloudflare Pages (Deploy CP). 
+- configure site basics (1st Config).
+- produce a version where variables are marked KCT_Template_Field so simply search for site variables and edit in Github as part of first step (Cloudflare Pages Deploy)
+
+
+Then later:
+- add PWA capabilities, including push notifications (OneSignal).
+Amend this todo list as project progresses. Adding detailed notes below with latest changes first
+
+## yymm02a Branch3
+
+## yymmddb Branch2
+
+## yymmdda 1st Config
+Usually, I create a 1st Config branch to get a working site with config changes as per original README instructions and note files changed with any additional notes. Most of this detail is deleted from final README, but it serves to keep track of installation progress. At first sight, the configuration appears to be described in the About page. So, I'll check and amend my default list:
+- author.json
+- menu.json
+- site.js
+
+## 210818a Deploy CP
+ISC license added.
+
+## Original 11TA README below...
+
+
+***
+
 # 11TA - 11ty, TailwindCSS, & Alpine.js Template
 
 > **UPDATE v2.0.0 - Breaking Changes**
