@@ -42,7 +42,17 @@ heroSettings:
       - home/8.jpg
       - home/9.jpg
 ---
+# PROSPRA Activity Arranger
 
+Welcome to PROSPRA Activity Arranger
+
+Currently, this site is under construction. So please read my latest published version at <a href="https://prospra.com/">PROSPRA Activity Arranger</a>.
+
+
+## Original 11TA - 11ty, TailwindCSS, & Alpine.js Template HomePage below...
+
+
+***
 We set out to build a starter project template for [11ty](https://11ty.dev '11ty Static Site Generator') that has [TailwindCSS](https://tailwindcss.com 'TailwindCSS Utility-First CSS Framework') and [Alpine.js](https://github.com/alpinejs/alpine 'Alpine.js : Think of it like Tailwind for JavaScript') baked in.
 
 Version 1.0.0 morphed into a fully-configurable text-based CMS for managing small websites with easy-to-manage configuration files in the `/src/_data` directory.
