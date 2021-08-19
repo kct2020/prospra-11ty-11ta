@@ -15,12 +15,15 @@ seo:
 This section of the website is not directly about Activity Arranging. Because these are "Admin" pages. So they explain what PROSPRA.com is. Also, how you can use this website in the best way.
 
 <h2 id="overview">About PROSPRA.com</h2>
+
 We often get overwhelmed with our list of tasks to do. Sometimes from regular tasks that seem inefficient. Sometimes from new tasks that become more complicated than we first thought. With PROSPRA, we can break these tasks into manageable groups of activities. Then arrange them in logical, efficient ways. So regular tasks become more efficient. And new tasks get finished sooner.
 
 PROSPRA.com serves as my personal activity arranger. So I can provide practical templates for your common tasks.
 
 <h2 id="details">Details About PROSPRA.com</h2>
-Other pages that explain more about PROSPRA.com are being transferred from the old WordPress version of this website. The current details are at [About PROSPRA](https://prospra.com/about-prospra/).
+
+Other pages that explain more about PROSPRA.com are being transferred from the old WordPress version of this website. The current details are at <a href="https://prospra.com/about-prospra/">About PROSPRA</a>.
 
 <hr />
-Leave About PROSPRA.com to read [PROSPRA Activity Arranger](/).
+
+Leave About PROSPRA.com to read <a href="/">PROSPRA Activity Arranger</a>.
