@@ -17,11 +17,14 @@ Check and tidy all files, re-write this README, and redirect domain to Cloudflar
 ## yymmdd tidy Posts
 Delete old template posts and copy old WP posts. Start admin routine to evolve or delete old posts
 
+## yymmdd 404 Content
+
 ## yymmdd 1st Post
 PROSPRA.com just needs a post to introduce new website features and a heads-up on forthcoming projects. And that's really all the template needs - one post to edit or delete similar to a WordPress install
 - /src/posts/*.md - choose one to amend. Then test how it looks in the list. Next delete the rest
 
-## yymmdd 404 Content
+## 210819a Import WP site
+Done now to ensure the ideas will work before investing in new content. Also brings images in rather than uploading duplicate assets.
 
 ## 210819a 1st Content
 - about.md Template fields set in my project MindMup. Also default about.md layout update in my Snippets file. Working towards a fast workflow for new 11ty sites.

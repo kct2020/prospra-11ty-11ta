@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PROSPRA Website &#8211; PROSPRA Activity Arranger</title>
+	<atom:link href="/step/prospra-website/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>7 Step Problem Solver &#38; Task Organizer</description>
+	<lastBuildDate>Sun, 26 Apr 2020 11:51:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-prospra-icon-512-32x32.png</url>
+	<title>PROSPRA Website &#8211; PROSPRA Activity Arranger</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PROSPRA Activity Arranger Progress</title>
+		<link>/prospra-activity-arranger-progress/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Sun, 26 Apr 2020 11:51:21 +0000</pubDate>
+				<category><![CDATA[PROSPRA Website]]></category>
+		<guid isPermaLink="false">/?p=326</guid>
+
+					<description><![CDATA[Almost 5 years ago I reported on PROSPRA Projects Progress. Since then, I&#8217;ve been refining my techniques, applying PROSPRA to more activities, and finally started to publish templates. That last point is particularly important to me. Because PROSPRA is a practical tool. So it&#8217;s much easier to explain it with examples of practical applications. Though &#8230; <a href="/prospra-activity-arranger-progress/" class="more-link">Continue reading <span class="screen-reader-text">PROSPRA Activity Arranger Progress</span></a>
+<p><a href="/prospra-activity-arranger-progress/">Source</a></p>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

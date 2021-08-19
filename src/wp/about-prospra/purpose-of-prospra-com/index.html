@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<script src="/cdn-cgi/apps/head/LQGsVpxG7CkfOCqVlbg_WlcP8EU.js"></script><link rel="profile" href="//gmpg.org/xfn/11">
+<link rel="pingback" href="/xmlrpc.php">
+<!--[if lt IE 9]>
+	<script src="https://prospra.com/wp-content/themes/twentyfifteen/js/html5.js"></script>
+	<![endif]-->
+<script type="e35c32dc9d673faa8b011488-text/javascript">(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>- PROSPRA Task Manager</title>
+<meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link href="https://fonts.gstatic.com/" crossorigin rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="PROSPRA Activity Arranger &raquo; Feed" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="PROSPRA Activity Arranger &raquo; Comments Feed" href="/comments/feed/">
+<script type="e35c32dc9d673faa8b011488-text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/prospra.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=420cd93da6f6fa813cab56ce83d2c746"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style>img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style>
+<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=420cd93da6f6fa813cab56ce83d2c746" media="all">
+<link rel="stylesheet" id="wp-block-library-theme-css" href="/wp-includes/css/dist/block-library/theme.min.css?ver=420cd93da6f6fa813cab56ce83d2c746" media="all">
+<link rel="stylesheet" id="twentyfifteen-fonts-css" href="https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;display=fallback" media="all">
+<link rel="stylesheet" id="genericons-css" href="/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=20201208" media="all">
+<link rel="stylesheet" id="twentyfifteen-style-css" href="/wp-content/themes/twentyfifteen-child-04/style.css?ver=20201208" media="all">
+<style id="twentyfifteen-style-inline-css">/* Color Scheme */
+
+	/* Background Color */
+	body {
+		background-color: #e9f2f9;
+	}
+
+	/* Sidebar Background Color */
+	body:before,
+	.site-header {
+		background-color: #55c3dc;
+	}
+
+	/* Box Background Color */
+	.post-navigation,
+	.pagination,
+	.secondary,
+	.site-footer,
+	.hentry,
+	.page-header,
+	.page-content,
+	.comments-area,
+	.widecolumn {
+		background-color: #ffffff;
+	}
+
+	/* Box Background Color */
+	button,
+	input[type="button"],
+	input[type="reset"],
+	input[type="submit"],
+	.pagination .prev,
+	.pagination .next,
+	.widget_calendar tbody a,
+	.widget_calendar tbody a:hover,
+	.widget_calendar tbody a:focus,
+	.page-links a,
+	.page-links a:hover,
+	.page-links a:focus,
+	.sticky-post {
+		color: #ffffff;
+	}
+
+	/* Main Text Color */
+	button,
+	input[type="button"],
+	input[type="reset"],
+	input[type="submit"],
+	.pagination .prev,
+	.pagination .next,
+	.widget_calendar tbody a,
+	.page-links a,
+	.sticky-post {
+		background-color: #22313f;
+	}
+
+	/* Main Text Color */
+	body,
+	blockquote cite,
+	blockquote small,
+	a,
+	.dropdown-toggle:after,
+	.image-navigation a:hover,
+	.image-navigation a:focus,
+	.comment-navigation a:hover,
+	.comment-navigation a:focus,
+	.widget-title,
+	.entry-footer a:hover,
+	.entry-footer a:focus,
+	.comment-metadata a:hover,
+	.comment-metadata a:focus,
+	.pingback .edit-link a:hover,
+	.pingback .edit-link a:focus,
+	.comment-list .reply a:hover,
+	.comment-list .reply a:focus,
+	.site-info a:hover,
+	.site-info a:focus {
+		color: #22313f;
+	}
+
+	/* Main Text Color */
+	.entry-content a,
+	.entry-summary a,
+	.page-content a,
+	.comment-content a,
+	.pingback .comment-body > a,
+	.author-description a,
+	.taxonomy-description a,
+	.textwidget a,
+	.entry-footer a:hover,
+	.comment-metadata a:hover,
+	.pingback .edit-link a:hover,
+	.comment-list .reply a:hover,
+	.site-info a:hover {
+		border-color: #22313f;
+	}
+
+	/* Secondary Text Color */
+	button:hover,
+	button:focus,
+	input[type="button"]:hover,
+	input[type="button"]:focus,
+	input[type="reset"]:hover,
+	input[type="reset"]:focus,
+	input[type="submit"]:hover,
+	input[type="submit"]:focus,
+	.pagination .prev:hover,
+	.pagination .prev:focus,
+	.pagination .next:hover,
+	.pagination .next:focus,
+	.widget_calendar tbody a:hover,
+	.widget_calendar tbody a:focus,
+	.page-links a:hover,
+	.page-links a:focus {
+		background-color: #22313f; /* Fallback for IE7 and IE8 */
+		background-color: rgba( 34, 49, 63, 0.7);
+	}
+
+	/* Secondary Text Color */
+	blockquote,
+	a:hover,
+	a:focus,
+	.main-navigation .menu-item-description,
+	.post-navigation .meta-nav,
+	.post-navigation a:hover .post-title,
+	.post-navigation a:focus .post-title,
+	.image-navigation,
+	.image-navigation a,
+	.comment-navigation,
+	.comment-navigation a,
+	.widget,
+	.author-heading,
+	.entry-footer,
+	.entry-footer a,
+	.taxonomy-description,
+	.page-links > .page-links-title,
+	.entry-caption,
+	.comment-author,
+	.comment-metadata,
+	.comment-metadata a,
+	.pingback .edit-link,
+	.pingback .edit-link a,
+	.post-password-form label,
+	.comment-form label,
+	.comment-notes,
+	.comment-awaiting-moderation,
+	.logged-in-as,
+	.form-allowed-tags,
+	.no-comments,
+	.site-info,
+	.site-info a,
+	.wp-caption-text,
+	.gallery-caption,
+	.comment-list .reply a,
+	.widecolumn label,
+	.widecolumn .mu_register label {
+		color: #22313f; /* Fallback for IE7 and IE8 */
+		color: rgba( 34, 49, 63, 0.7);
+	}
+
+	/* Secondary Text Color */
+	blockquote,
+	.logged-in-as a:hover,
+	.comment-author a:hover {
+		border-color: #22313f; /* Fallback for IE7 and IE8 */
+		border-color: rgba( 34, 49, 63, 0.7);
+	}
+
+	/* Border Color */
+	hr,
+	.dropdown-toggle:hover,
+	.dropdown-toggle:focus {
+		background-color: #22313f; /* Fallback for IE7 and IE8 */
+		background-color: rgba( 34, 49, 63, 0.1);
+	}
+
+	/* Border Color */
+	pre,
+	abbr[title],
+	table,
+	th,
+	td,
+	input,
+	textarea,
+	.main-navigation ul,
+	.main-navigation li,
+	.post-navigation,
+	.post-navigation div + div,
+	.pagination,
+	.comment-navigation,
+	.widget li,
+	.widget_categories .children,
+	.widget_nav_menu .sub-menu,
+	.widget_pages .children,
+	.site-header,
+	.site-footer,
+	.hentry + .hentry,
+	.author-info,
+	.entry-content .page-links a,
+	.page-links > span,
+	.page-header,
+	.comments-area,
+	.comment-list + .comment-respond,
+	.comment-list article,
+	.comment-list .pingback,
+	.comment-list .trackback,
+	.comment-list .reply a,
+	.no-comments {
+		border-color: #22313f; /* Fallback for IE7 and IE8 */
+		border-color: rgba( 34, 49, 63, 0.1);
+	}
+
+	/* Border Focus Color */
+	a:focus,
+	button:focus,
+	input:focus {
+		outline-color: #22313f; /* Fallback for IE7 and IE8 */
+		outline-color: rgba( 34, 49, 63, 0.3);
+	}
+
+	input:focus,
+	textarea:focus {
+		border-color: #22313f; /* Fallback for IE7 and IE8 */
+		border-color: rgba( 34, 49, 63, 0.3);
+	}
+
+	/* Sidebar Link Color */
+	.secondary-toggle:before {
+		color: #ffffff;
+	}
+
+	.site-title a,
+	.site-description {
+		color: #ffffff;
+	}
+
+	/* Sidebar Text Color */
+	.site-title a:hover,
+	.site-title a:focus {
+		color: rgba( 255, 255, 255, 0.7);
+	}
+
+	/* Sidebar Border Color */
+	.secondary-toggle {
+		border-color: #ffffff; /* Fallback for IE7 and IE8 */
+		border-color: rgba( 255, 255, 255, 0.1);
+	}
+
+	/* Sidebar Border Focus Color */
+	.secondary-toggle:hover,
+	.secondary-toggle:focus {
+		border-color: #ffffff; /* Fallback for IE7 and IE8 */
+		border-color: rgba( 255, 255, 255, 0.3);
+	}
+
+	.site-title a {
+		outline-color: #ffffff; /* Fallback for IE7 and IE8 */
+		outline-color: rgba( 255, 255, 255, 0.3);
+	}
+
+	/* Meta Background Color */
+	.entry-footer {
+		background-color: #f1f1f1;
+	}
+
+	@media screen and (min-width: 38.75em) {
+		/* Main Text Color */
+		.page-header {
+			border-color: #22313f;
+		}
+	}
+
+	@media screen and (min-width: 59.6875em) {
+		/* Make sure its transparent on desktop */
+		.site-header,
+		.secondary {
+			background-color: transparent;
+		}
+
+		/* Sidebar Background Color */
+		.widget button,
+		.widget input[type="button"],
+		.widget input[type="reset"],
+		.widget input[type="submit"],
+		.widget_calendar tbody a,
+		.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus {
+			color: #55c3dc;
+		}
+
+		/* Sidebar Link Color */
+		.secondary a,
+		.dropdown-toggle:after,
+		.widget-title,
+		.widget blockquote cite,
+		.widget blockquote small {
+			color: #ffffff;
+		}
+
+		.widget button,
+		.widget input[type="button"],
+		.widget input[type="reset"],
+		.widget input[type="submit"],
+		.widget_calendar tbody a {
+			background-color: #ffffff;
+		}
+
+		.textwidget a {
+			border-color: #ffffff;
+		}
+
+		/* Sidebar Text Color */
+		.secondary a:hover,
+		.secondary a:focus,
+		.main-navigation .menu-item-description,
+		.widget,
+		.widget blockquote,
+		.widget .wp-caption-text,
+		.widget .gallery-caption {
+			color: rgba( 255, 255, 255, 0.7);
+		}
+
+		.widget button:hover,
+		.widget button:focus,
+		.widget input[type="button"]:hover,
+		.widget input[type="button"]:focus,
+		.widget input[type="reset"]:hover,
+		.widget input[type="reset"]:focus,
+		.widget input[type="submit"]:hover,
+		.widget input[type="submit"]:focus,
+		.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus {
+			background-color: rgba( 255, 255, 255, 0.7);
+		}
+
+		.widget blockquote {
+			border-color: rgba( 255, 255, 255, 0.7);
+		}
+
+		/* Sidebar Border Color */
+		.main-navigation ul,
+		.main-navigation li,
+		.widget input,
+		.widget textarea,
+		.widget table,
+		.widget th,
+		.widget td,
+		.widget pre,
+		.widget li,
+		.widget_categories .children,
+		.widget_nav_menu .sub-menu,
+		.widget_pages .children,
+		.widget abbr[title] {
+			border-color: rgba( 255, 255, 255, 0.1);
+		}
+
+		.dropdown-toggle:hover,
+		.dropdown-toggle:focus,
+		.widget hr {
+			background-color: rgba( 255, 255, 255, 0.1);
+		}
+
+		.widget input:focus,
+		.widget textarea:focus {
+			border-color: rgba( 255, 255, 255, 0.3);
+		}
+
+		.sidebar a:focus,
+		.dropdown-toggle:focus {
+			outline-color: rgba( 255, 255, 255, 0.3);
+		}
+	}</style>
+<link rel="stylesheet" id="twentyfifteen-block-style-css" href="/wp-content/themes/twentyfifteen/css/blocks.css?ver=20190102" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='https://prospra.com/wp-content/themes/twentyfifteen/css/ie.css?ver=20170916' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='https://prospra.com/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141210' media='all' />
+<![endif]-->
+<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js" type="e35c32dc9d673faa8b011488-text/javascript"></script>
+<script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js" type="e35c32dc9d673faa8b011488-text/javascript"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/300">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml">
+<link rel="canonical" href="/about-prospra/purpose-of-prospra-com/">
+<link rel="shortlink" href="/?p=300">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fabout-prospra%2Fpurpose-of-prospra-com%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fabout-prospra%2Fpurpose-of-prospra-com%2F&#038;format=xml">
+<script type="e35c32dc9d673faa8b011488-text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "5rrxc6rptv");
+</script>
+<script data-ad-client="ca-pub-4857169685716700" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="e35c32dc9d673faa8b011488-text/javascript"></script>
+<meta name="description" content="PROSPRA helps you plan small projects effectively. Then boost efficiency and performance. Best task management in 7 steps. Get fast solutions today.">
+<meta property="og:title" content="- PROSPRA Task Manager">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://prospra.com/wp-content/uploads/2020/03/Plan-Do-Review-media.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="640">
+<meta property="og:description" content="PROSPRA helps you plan small projects effectively. Then boost efficiency and performance. Best task management in 7 steps. Get fast solutions today.">
+<meta property="og:url" content="https://prospra.com/about-prospra/purpose-of-prospra-com/">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="PROSPRA Activity Arranger">
+<meta property="article:published_time" content="2020-03-23T12:09:19+00:00">
+<meta property="article:modified_time" content="2020-03-23T12:09:19+00:00">
+<meta property="og:updated_time" content="2020-03-23T12:09:19+00:00">
+<meta property="article:author" content="Keith Taylor">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://prospra.com/wp-content/uploads/2020/03/Plan-Do-Review-media.jpg">
+<link rel="icon" href="/wp-content/uploads/2016/04/cropped-prospra-icon-512-32x32.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2016/04/cropped-prospra-icon-512-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2016/04/cropped-prospra-icon-512-180x180.png">
+<meta name="msapplication-TileImage" content="https://prospra.com/wp-content/uploads/2016/04/cropped-prospra-icon-512-270x270.png">
+</head>
+<body class="page-template-default page page-id-300 page-child parent-pageid-2 wp-embed-responsive">
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHRFSC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="e35c32dc9d673faa8b011488-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KHRFSC');</script>
+
+<div id="page" class="hfeed site">
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<div id="sidebar" class="sidebar">
+<header id="masthead" class="site-header" role="banner">
+<div class="site-branding">
+<p class="site-title"><a href="/" rel="home">PROSPRA Activity Arranger</a></p>
+<p class="site-description">7 Step Problem Solver &amp; Task Organizer</p>
+<button class="secondary-toggle">Menu and widgets</button>
+</div>
+</header>
+<div id="secondary" class="secondary">
+<nav id="site-navigation" class="main-navigation" role="navigation">
+<div class="menu-prospra-container"><ul id="menu-prospra" class="nav-menu">
+<li id="menu-item-183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-183"><a href="/">Home</a></li>
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-248"><a href="/about-prospra/">About PROSPRA</a></li>
+<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a title="PROSPRA" href="/prospra/">What is PROSPRA?</a></li>
+</ul></div> </nav>
+<div id="widget-area" class="widget-area" role="complementary">
+<aside id="custom_html-2" class="widget_text widget widget_custom_html"><h2 class="widget-title">Please Subscribe</h2>
+<div class="textwidget custom-html-widget"><form style="border:1px solid #55c3dc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="if (!window.__cfRLUnblockHandlers) return false; window.open('https://feedburner.google.com/fb/a/mailverify?uri=PROSPRA', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" data-cf-modified-e35c32dc9d673faa8b011488-="">
+<p>Enter your email address:</p>
+<p><input type="text" style="width:95%" name="email"></p>
+<input type="hidden" value="PROSPRA" name="uri"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Get PROSPRA Updates Now"><dl>
+<dt>No Charge.</dt>
+<dd>Subscription is free.</dd>
+<dt>100% Safety Guaranteed.</dt>
+<dd>Your email address is safe - I will never share it with anyone else.</dd>
+<dt>No Commitment.</dt>
+<dd>Each of my update emails ends with an Unsubscribe link. So, you can stop updates whenever you like. Then, rejoin whenever you like. You are in control.</dd>
+</dl>
+</form></div></aside>
+<aside id="recent-posts-2" class="widget widget_recent_entries">
+<h2 class="widget-title">Recent Posts</h2>
+<nav role="navigation" aria-label="Recent Posts">
+<ul>
+<li>
+<a href="/prospra-activity-arranger-progress/">PROSPRA Activity Arranger Progress</a>
+</li>
+<li>
+<a href="/prospra-technique-for-disease-recovery/">PROSPRA Technique for Disease Recovery</a>
+</li>
+<li>
+<a href="/webmaster-site-startup-projectlet/">Webmaster Site Startup Projectlet</a>
+</li>
+<li>
+<a href="/maintain-prospra-in-a-spreadsheet/">Maintain PROSPRA in a Spreadsheet</a>
+</li>
+<li>
+<a href="/starting-prospra-in-a-spreadsheet/">Starting PROSPRA in a Spreadsheet</a>
+</li>
+</ul>
+</nav></aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>
+<nav role="navigation" aria-label="Categories">
+<ul>
+<li class="cat-item cat-item-3">
+<a href="/step/task-manager-processes/" title="Each of the 7 activity arranger steps has a wealth of information to guide you through understanding and applying PROSPRA techniques. 
+These articles give you an overview of the complete PROSPRA process, or combined steps within it.">PROSPRA Activity Arranger Steps</a>
+</li>
+<li class="cat-item cat-item-2">
+<a href="/step/prospra-website/" title="This is the Admin section of the PROSPRA website. These articles explain: 
+- Why PROSPRA is here
+- How you interact with the PROSPRA website
+- How to use PROSPRA services 
+
+The rest of the website explains what PROSPRA is, and how to use it to make simple project management efficient.">PROSPRA Website</a>
+</li>
+</ul>
+</nav></aside> </div>
+</div>
+</div>
+<div id="content" class="site-content">
+<div id="primary" class="content-area">
+<main id="main" class="site-main" role="main">
+<article id="post-300" class="post-300 page type-page status-publish has-post-thumbnail hentry">
+<div class="post-thumbnail">
+<img width="640" height="510" src="/wp-content/uploads/2020/03/Plan-Do-Review-media-640x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Plan Do Review" loading="lazy"> </div>
+<header class="entry-header">
+<h1 class="entry-title">Purpose of PROSPRA.com</h1> </header>
+<div class="entry-content">
+<p>The purpose of this PROSPRA website is to explain the principles of my 7 step task management procedure by using practical examples. Then I invite you to apply the techniques to manage your projects. Either by yourself using this website as your guide. Or with help from me using my Q&#038;A or mentoring services.</p>
+<p><span id="more-300"></span></p>
+<p>I use the term &#8220;Projectlet&#8221; to describe the small projects that are ideal for managing using PROSPRA. To explain, many PROSPRA projects start with a &#8220;How can I &#8230;&#8221; question. So these are rarely factual questions where a short answer will suffice. Because the solution that fits the question often depends on defining some unique facts about the specific situation.</p>
+<p>So PROSPRA Projectlets are too complex for a To-Do List. But too simple for a Project Management approach.</p>
+<h2>Purpose of PROSPRA.com</h2>
+<p>The purpose of PROSPRA.com is to teach you about my PROSPRA techniques for task management. So that you can organize tasks into logical sequences. Then complete those tasks in the most efficient way. Finally, you learn to review your tasks. So that you can exploit new opportunities or complete repeating tasks more efficiently.<br>
+<img loading="lazy" src="/wp-content/uploads/2020/03/Plan-Do-Review-media.jpg" alt="" width="640" height="640" class="aligncenter size-full wp-image-301" srcset="/wp-content/uploads/2020/03/Plan-Do-Review-media.jpg 640w, /wp-content/uploads/2020/03/Plan-Do-Review-media-300x300.jpg 300w, /wp-content/uploads/2020/03/Plan-Do-Review-media-150x150.jpg 150w" sizes="(max-width: 640px) 100vw, 640px"></p>
+<h2>Your Purpose for PROSPRA.com</h2>
+<p>I intend to publish many examples of common one-off situations or repeating tasks that PROSPRA is useful for. So you can adapt these to create your own PROSPRA Projectlets.</p>
+<p>Additionally, I&#8217;m here to help you complete your tasks efficiently and effectively. So you can ask questions about your choices at each step. Or you can ask me to guide you with structured help and support. Just use the Feedback Form near the end of each PROSPRA page. Or <a href="https://keechatay.freshdesk.com/support/tickets/new">ask at my help desk</a>.</p>
+<p>Leave Purpose of PROSPRA.com to read more <a href="/about-prospra/">About PROSPRA.com</a>.</p>
+</div>
+</article>
+</main>
+</div>
+</div>
+<footer id="colophon" class="site-footer" role="contentinfo">
+<div class="site-info">
+<p><a href="https://kecata.com/fast-safe-managed-wordpress-hosting/" class="aligncenter">Fast Safe Managed WordPress Hosting from Keith Taylor</a></p>
+</div>
+</footer>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://prospra.com/#website","url":"https://prospra.com/","name":"PROSPRA Activity Arranger","potentialAction":{"@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#searchaction"},"publisher":{"@id":"https://prospra.com/#organization"}},{"@type":"SearchAction","@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#searchaction","target":"https://prospra.com/?s={search_term_string}","query-input":"required name=search_term_string"},{"@type":"BreadcrumbList","@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#breadcrumbs","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prospra.com/"},{"@type":"ListItem","position":2,"name":"About PROSPRA","item":"https://prospra.com/about-prospra/"}]},{"@type":"WebPage","@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#webpage","url":"https://prospra.com/about-prospra/purpose-of-prospra-com","inLanguage":"en_US","name":"- PROSPRA Task Manager","description":"PROSPRA helps you plan small projects effectively. Then boost efficiency and performance. Best task management in 7 steps. Get fast solutions today.","datePublished":"2020-03-23T12:09:19+00:00","dateModified":"2020-03-23T12:09:19+00:00","isPartOf":{"@id":"https://prospra.com/#website"},"breadcrumb":{"@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#breadcrumbs"},"primaryImageOfPage":{"@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#thumbnail"},"image":{"@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#thumbnail"}},{"@type":"Organization","@id":"https://prospra.com/#organization","url":"https://prospra.com/","name":"PROSPRA Activity Arranger","logo":{"@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#logo"},"image":{"@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#logo"}},{"@type":"ImageObject","@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#logo","url":"https://prospra.com/wp-content/uploads/2016/04/cropped-prospra-icon-512.png","width":512,"height":512},{"@type":"ImageObject","@id":"https://prospra.com/about-prospra/purpose-of-prospra-com#thumbnail","url":"https://prospra.com/wp-content/uploads/2020/03/Plan-Do-Review-media.jpg","width":640,"height":640}]}</script><script src="/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141028" id="twentyfifteen-skip-link-focus-fix-js" type="e35c32dc9d673faa8b011488-text/javascript"></script>
+<script id="twentyfifteen-script-js-extra" type="e35c32dc9d673faa8b011488-text/javascript">
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+</script>
+<script src="/wp-content/themes/twentyfifteen/js/functions.js?ver=20171218" id="twentyfifteen-script-js" type="e35c32dc9d673faa8b011488-text/javascript"></script>
+<script src="/wp-includes/js/wp-embed.min.js?ver=420cd93da6f6fa813cab56ce83d2c746" id="wp-embed-js" type="e35c32dc9d673faa8b011488-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="e35c32dc9d673faa8b011488-|49" defer></script>
+</body>
+</html>
