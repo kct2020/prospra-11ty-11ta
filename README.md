@@ -11,9 +11,20 @@ Then later:
 - add PWA capabilities, including push notifications (OneSignal).
 Amend this todo list as project progresses. Adding detailed notes below with latest changes first
 
-## 210818c Develop Content
-- about.md
-- /src/posts/*.md
+## yymmdd Switch site
+Check and tidy all files, re-write this README, and redirect domain to Cloudflare Pages.
+
+## yymmdd tidy Posts
+Delete old template posts and copy old WP posts. Start admin routine to evolve or delete old posts
+
+## yymmdd 1st Post
+PROSPRA.com just needs a post to introduce new website features and a heads-up on forthcoming projects. And that's really all the template needs - one post to edit or delete similar to a WordPress install
+- /src/posts/*.md - choose one to amend. Then test how it looks in the list. Next delete the rest
+
+## yymmdd 404 Content
+
+## 210819a 1st Content
+- about.md Template fields set in my project MindMup. Also default about.md layout update in my Snippets file. Working towards a fast workflow for new 11ty sites.
 
 ## 210818b 1st Config
 Usually, I create a 1st Config branch to get a working site with config changes as per original README instructions and note files changed with any additional notes. Most of this detail is deleted from final README, but it serves to keep track of installation progress. The configuration is described on the Home page:
