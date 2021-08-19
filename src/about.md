@@ -20,7 +20,7 @@ We often get overwhelmed with our list of tasks to do. Sometimes from regular ta
 PROSPRA.com serves as my personal activity arranger. So I can provide practical templates for your common tasks.
 
 <h2 id="details">Details About PROSPRA.com</h2>
-Other pages that explain more about PROSPRA.com are being transferred from the old WordPress version of this website. The current details are at <a href="https://prospra.com/about-prospra/">About PROSPRA</a>.
+Other pages that explain more about PROSPRA.com are being transferred from the old WordPress version of this website. The current details are at [About PROSPRA](https://prospra.com/about-prospra/).
 
 <hr />
-Leave About PROSPRA.com to read <a href="/">PROSPRA Activity Arranger</a>.
+Leave About PROSPRA.com to read [PROSPRA Activity Arranger](/).
