@@ -1,0 +1,41 @@
+---
+title: PROSPRA Blog
+date: 2021-08-23
+description: The PROSPRA Blog brings you news about the PROSPRA Activities Arrangement methods. Including tips for routine problem improvement and small project management.
+layout: page
+eleventyNavigation:
+  key: main
+  title: Blog #  as it will appear in the nav
+  order: 3    # order to display in the nav
+seo:
+  title: From the blog...
+  description: 
+pagination:
+  data: collections.post 
+  size: 12
+  reverse: true
+  alias: posts
+---
+
+<h2 class="mt-6">PROSPRA Activities Arranger Blog</h2>
+
+<p>
+These are all the blog posts about PROSPRA Activities Arranger.
+</p>
+
+<hr class="mt-8">
+
+{% set postslist = posts | reverse %}
+
+{# 
+  Allows a user to easily change the Tag List Style.
+  Please see instructions in /src/_data/structure.js >>> ===== Post List Style Options =====
+#}
+{% set postlist = ['components/', structure.postListStyle, '.njk'] %}
+{% include postlist | join %}
+
+{# ===== Paginate based on "size" frontmatter value above =====  #}
+{# Don't even include the pagination component if there are fewer posts than needed to paginate  #}
+{% if collections.post.length > pagination.size %}
+  {% include "components/pagination.njk" %}
+{% endif %}
