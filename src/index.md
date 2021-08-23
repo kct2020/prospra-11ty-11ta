@@ -1,6 +1,6 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
-title: PROSPRA Activity Arranger
+title: PROSPRA Activities Arranger
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
 author: # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
@@ -27,7 +27,7 @@ heroSettings:
   headingText: Did you bite off more tasks<br /> than you can chew?
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
-  subheadingText: Sink your keith into better activity arranging!
+  subheadingText: Sink your keith into better activities arranging!
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: Contact Us... # no button generated if left blank
   buttonURL: /contact/ # full url required. Example: https://thisdomain.com/somepage/
@@ -42,9 +42,9 @@ heroSettings:
       - home/8.jpg
       - home/9.jpg
 ---
-## PROSPRA Activity Arranger
+## PROSPRA Activities Arranger
 
-Welcome to PROSPRA Activity Arranger
+Welcome to PROSPRA Activities Arranger
 
 Currently, this site is under construction. So please read my latest published version at <a href="https://prospra.com/">PROSPRA Activity Arranger</a>.
 
