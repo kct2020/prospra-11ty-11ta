@@ -17,6 +17,13 @@ heroSettings:
   height:
     mobile: h-1/2 # options = h-1/1 (default = full screen), h-1/2, h-1/3, h-3/4, h-9/10, h-48 (12rem, 192px), h-56 (14rem, 224px), h-64 (16rem, 256px)
     desktop: # leave blank to inherit "mobile" height (default = full screen)
+  bg:
+    color: # default bg-black
+    image: 2021/prospra-badge-media.webp # relative to /assets/images/
+    imagePosition: # options = bg-center (default), bg-left, bg-right
+    video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
+    opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
+    opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
   headingText: Looking for articles to help manage your task list?
   headingTextColor: # text-gray-800 # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   subheadingText: See practical examples of PROSPRA. Logically organizing activities for less worry and more time.
@@ -38,7 +45,10 @@ This is a draft version on the development website. Prior to deploying the produ
 
 I've published this website to help you arrange routine activities and small project tasks more efficiently.
 Expand with history/status/intentions
-
+<picture>
+  <source media="(min-width:400px)" srcset="2021/prospra-badge-377-media.webp">
+  <img src="2021/prospra-badge-media.webp" alt="PROSPRA Badge" style="width:auto;">
+</picture>
 <h2 id="next">Arranging Your Activities</h2>
 
 Wait for content, register for notifications, etc. Maybe see social media.
