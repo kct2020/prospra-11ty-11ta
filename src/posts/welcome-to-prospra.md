@@ -46,8 +46,8 @@ This is a draft version on the development website. Prior to deploying the produ
 I've published this website to help you arrange routine activities and small project tasks more efficiently.
 Expand with history/status/intentions
 <picture>
-  <source media="(min-width:400px)" srcset="2021/prospra-badge-377-media.webp">
-  <img src="2021/prospra-badge-media.webp" alt="PROSPRA Badge" style="width:auto;">
+  <source media="(min-width:400px)" srcset="/assets/images/2021/prospra-badge-377-media.webp">
+  <img src="/assets/images/2021/prospra-badge-media.webp" alt="PROSPRA Badge" style="width:auto;">
 </picture>
 <h2 id="next">Arranging Your Activities</h2>
 
