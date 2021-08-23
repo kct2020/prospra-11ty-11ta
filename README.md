@@ -16,7 +16,7 @@ Check and tidy all files, re-write this README, and redirect domain to Cloudflar
 
 ## yymmdd Posts Tidy
 Delete old template posts.
-Edit index.md to remove progress notes.
+Edit index.md and remove progress notes.
 Redirect old admin pages to new (Note: /about/ hierarchy needs to be replaced by /about-prospra-com/ folder. New Purpose page needed.) 
 Start admin routine to evolve or delete old posts
 
@@ -28,11 +28,10 @@ Start admin routine to evolve or delete old posts
 - 11ty favicon
 - check meta description length in spreadsheet
 
-## yymmdd 1st Post
+## 210823b 1st Post
 PROSPRA.com just needs a post to introduce new website features and a heads-up on forthcoming projects. And that's really all the template needs - one post to edit or delete similar to a WordPress install
-- /src/blog.njk
-- /src/posts/*.md - choose one to amend. Then test how it looks in the list. Next delete the rest
-- index.md - Draft of new home page (leaving progress notes for now)
+- /src/blog.njk -> prospra-blog.njk
+- /src/posts/*.md - added Welcome to PROSPRA Activities Arranger Blog
 
 ## 210823a Import Tidy
 One page had bad link as revealed by Simply Static log. Fixed by editing output on new site. Because quicker than editing WordPress and re-importing.
