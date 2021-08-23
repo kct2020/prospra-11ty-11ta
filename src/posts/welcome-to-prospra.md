@@ -3,7 +3,6 @@ title: Welcome to PROSPRA
 date: 2021-08-23
 excerpt: First post, introducing the PROSPRA website.
 author: keith-taylor
-draft: true
 seo:
   title:
   description:
