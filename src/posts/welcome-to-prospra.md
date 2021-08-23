@@ -39,16 +39,21 @@ tags:
 Welcome to PROSPRA.
 
 This is a draft version on the development website. Prior to deploying the production version, I will:
-- test the featured image
-- add a summary of history, status, and intentions.
 - advise you about what to do next on this website.
 
 I've published this website to help you arrange routine activities and small project tasks more efficiently.
-Expand with history/status/intentions
-<picture>
-  <source media="(min-width:400px)" srcset="/assets/images/2021/prospra-badge-377-media.webp">
-  <img src="/assets/images/2021/prospra-badge-media.webp" alt="PROSPRA Badge" style="width:auto;">
-</picture>
+
+<h2 id="history">PROSPRA History</h2>
+The best way to see how PROSPRA has developed is to look through the blog articles here. Also look at PROSPRA.com in The Wayback Machine.
+
+<h2 id="status">PROSPRA Status</h2>
+Currently, I am moving PROSPRA.com from WordPress to the Eleventy Jamstack platform.
+
+<h2 id="intent">PROSPRA Intentions</h2>
+
+I intend to continue growing PROSPRA by providing many more examples. Then use those examples to clarify PROSPRA principles and guidelines.
+
+<img src="/assets/images/2021/prospra-badge-media.webp" alt="PROSPRA Badge" />
 <h2 id="next">Arranging Your Activities</h2>
 
 Wait for content, register for notifications, etc. Maybe see social media.
