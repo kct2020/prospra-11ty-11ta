@@ -15,15 +15,16 @@ Amend this todo list as project progresses. Adding detailed notes below with lat
 Check and tidy all files, re-write this README, and redirect domain to Cloudflare Pages.
 
 ## yymmdd Posts Tidy
-Delete old template posts.
-Edit index.md and remove progress notes.
-Redirect old admin pages to new (Note: /about/ hierarchy needs to be replaced by /about-prospra-com/ folder. New Purpose page needed.) 
-Start admin routine to evolve or delete old posts
+- Delete old template posts.
+- Complete welcome post next steps and change "Logically organizing activities for less worry and more time." to "Logically organize activities to reach better goals."
+- Edit index.md and remove progress notes.
+- Start admin routine to evolve or delete old posts
 
 ## yymmdd 404 Content
 
 ## yymmdd Footer & Search
-[Home] | [Contact] | [Purpose] | [Privacy] | [T&Cs] | [Notifications] | [Search]
+- Redirect old admin pages to new (Note: /about/ hierarchy needs to be replaced by /about-prospra-com/ folder. New Purpose page needed.) 
+- [Home] | [Contact] | [Purpose] | [Privacy] | [T&Cs] | [Notifications] | [Search]
 - gcse with logo
 - 11ty favicon
 - check meta description length in spreadsheet
