@@ -6,10 +6,10 @@ author: keith-taylor
 seo:
   title:
   description:
-  image: 2020/prospra-badge-media.webp
+  image: 2021/prospra-badge-media.webp
 images: # relative to /src/assets/images/
   feature:
-  thumb: 2020/prospra-badge-377-media.webp
+  thumb: 2021/prospra-badge-377-media.webp
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: # optional. Default = h-48 md:h-1/3
 hero: graphic # options: carousel, graphic, video, split (text & image)
@@ -21,7 +21,7 @@ heroSettings:
   headingTextColor: # text-gray-800 # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   subheadingText: See practical examples of PROSPRA. Logically organizing activities for less worry and more time.
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
-  image: 2020/prospra-badge-media.webp # image URL
+  image: 2021/prospra-badge-media.webp # image URL
   imagePosition: left # options = left, center, right
   imageOpacity: opacity-50 # options = opacity-25, opacity-50, opacity-75, opacity-100 (default)
   imageOpacityFilter: black # options = black or white (default) -> really depends on your background image
