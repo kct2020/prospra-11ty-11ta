@@ -14,20 +14,37 @@ Amend this todo list as project progresses. Adding detailed notes below with lat
 ## yymmdd Switch site
 Check and tidy all files, re-write this README, and redirect domain to Cloudflare Pages.
 
-## yymmdd tidy Posts
-Delete old template posts and copy old WP posts. Start admin routine to evolve or delete old posts
+## yymmdd Posts Tidy
+Delete old template posts.
+Edit index.md to remove progress notes.
+Redirect old admin pages to new (Note: /about/ hierarchy needs to be replaced by /about-prospra-com/ folder. New Purpose page needed.) 
+Start admin routine to evolve or delete old posts
 
 ## yymmdd 404 Content
 
+## yymmdd Footer & Search
+[Home] | [Contact] | [Purpose] | [Privacy] | [T&Cs] | [Notifications] | [Search]
+- gcse with logo
+- 11ty favicon
+- check meta description length in spreadsheet
+
 ## yymmdd 1st Post
 PROSPRA.com just needs a post to introduce new website features and a heads-up on forthcoming projects. And that's really all the template needs - one post to edit or delete similar to a WordPress install
+- /src/blog.njk
 - /src/posts/*.md - choose one to amend. Then test how it looks in the list. Next delete the rest
+- index.md - Draft of new home page (leaving progress notes for now)
+
+## 210823a Import Tidy
+One page had bad link as revealed by Simply Static log. Fixed by editing output on new site. Because quicker than editing WordPress and re-importing.
 
 ## 210819a Import WP site
 Done now to ensure the ideas will work before investing in new content. Also brings images in rather than uploading duplicate assets.
+Requires additional passthrough statement in /eleventy.js and unzip in Gitpod (because I can't see how to do that in GitHub web interface).
+WordPress index.html renamed as /prospra-wp-2020
 
 ## 210819a 1st Content
 - about.md Template fields set in my project MindMup. Also default about.md layout update in my Snippets file. Working towards a fast workflow for new 11ty sites.
+Note, /about/ should be renamed to /about-domain-tld/ so all admin pages can stay together in that domain folder.
 
 ## 210818b 1st Config
 Usually, I create a 1st Config branch to get a working site with config changes as per original README instructions and note files changed with any additional notes. Most of this detail is deleted from final README, but it serves to keep track of installation progress. The configuration is described on the Home page:
