@@ -59,6 +59,7 @@ Other pages that explain more about PROSPRA.com are being transferred from the o
 <dt id="help">Help </dt><dd>You can get general help using the Search feature below. Customized help is a 2-way street. Because I have to learn about you before I can customize information to help you arrange your activities. So the PROSPRA.com help pages will describe how you can get advanced help. Also, they deal with collaboration and how you help promote or improve PROSPRA.com.</dd>
 <dt id="search">Search </dt><dd>Tips to help you find quick answers about Activity Arranging at PROSPRA.com. For now, bookmark and use <a href="https://cse.google.com/cse?cx=2bf1e05c3c5da97fa">Google Activity Arranger</a>.</dd>
 </dl>
+<img src="/assets/images/2021/about-prospra.webp" alt="PROSPRA Badge" />
 
 
 <hr />
