@@ -44,7 +44,7 @@ This is a draft version on the development website. Prior to deploying the produ
 I've published this website to help you arrange routine activities and small project tasks more efficiently.
 
 <h2 id="history">PROSPRA History</h2>
-The best way to see how PROSPRA has developed is to look through the blog articles here. Also look at PROSPRA.com in The Wayback Machine.
+The best way to see how PROSPRA has developed is to look through the blog articles here. Also look at <a href="https://web.archive.org/web/20130616012046/http://prospra.com/">PROSPRA.com in The Wayback Machine</a>.
 
 <h2 id="status">PROSPRA Status</h2>
 Currently, I am moving PROSPRA.com from WordPress to the Eleventy Jamstack platform.
@@ -53,7 +53,7 @@ Currently, I am moving PROSPRA.com from WordPress to the Eleventy Jamstack platf
 
 I intend to continue growing PROSPRA by providing many more examples. Then use those examples to clarify PROSPRA principles and guidelines.
 
-<img src="/assets/images/2021/prospra-badge-media.webp" alt="PROSPRA Badge" />
+<img src="/assets/images/2021/prospra-badge-media.webp" alt="PROSPRA Badge"  width="610" height="377">
 <h2 id="next">Arranging Your Activities</h2>
 
 Wait for content, register for notifications, etc. Maybe see social media.
