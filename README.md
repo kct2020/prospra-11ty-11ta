@@ -11,6 +11,8 @@ Then later:
 - add PWA capabilities, including push notifications (OneSignal).
 Amend this todo list as project progresses. Adding detailed notes below with latest changes first
 
+To view current progress, visit https://prospra-11ty-11ta.pages.dev/
+
 ## yymmdd Switch site
 Check and tidy all files, re-write this README, and redirect domain to Cloudflare Pages.
 
@@ -19,15 +21,24 @@ Check and tidy all files, re-write this README, and redirect domain to Cloudflar
 - Complete welcome post next steps and change "Logically organizing activities for less worry and more time." to "Logically organize activities to reach better goals."
 - Edit index.md and remove progress notes.
 - Start admin routine to evolve or delete old posts
+- 11ty favicon
+- check meta description length in spreadsheet
 
 ## yymmdd 404 Content
 
-## yymmdd Footer & Search
-- Redirect old admin pages to new (Note: /about/ hierarchy needs to be replaced by /about-prospra-com/ folder. New Purpose page needed.) 
-- [Home] | [Contact] | [Purpose] | [Privacy] | [T&Cs] | [Notifications] | [Search]
-- gcse with logo
-- 11ty favicon
-- check meta description length in spreadsheet
+## yymmdd New Admin Pages
+- Purpose
+- Contact
+- Privacy
+- T&Cs
+- Help
+- Search
+- gcse with better logo (click for search tips)
+
+## 210904a Footer & Search
+- /about/ hierarchy on WordPress to be replaced by /about-prospra-com/ folder. Renamed src/about.md to src/about-prospra/about-prospra-com.md
+- New admin pages needed. But for now, link to about page dl anchors. 
+- `/src/_includes/partials/footer.njk` [Home] | [Contact] | [Purpose] | [Privacy] | [T&Cs] | [Notifications] | [Help] | [Search] links and Clarity script.
 
 ## 210823b 1st Post
 PROSPRA.com just needs a post to introduce new website features and a heads-up on forthcoming projects. And that's really all the template needs - one post to edit or delete similar to a WordPress install
