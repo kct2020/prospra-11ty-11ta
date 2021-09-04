@@ -22,14 +22,14 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: 2021/prospra-badge-media.webp # relative to /assets/images/
+    image: 2021/about-prospra.webp # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video:  # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
-  headingText: Looking for articles to help manage your task list?
+  headingText: What intrigues you about PROSPRA.com?
   headingTextColor: # text-gray-800 # default = text-white (can use any TailwindCSS text-[color]-[xxx])
-  subheadingText: See practical examples of PROSPRA. Logically organizing activities for less worry and more time.
+  subheadingText: Sink your keith into learning how PROSPRA.com works for you.
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   image: 2021/about-prospra.webp # image URL
   imagePosition: left # options = left, center, right
