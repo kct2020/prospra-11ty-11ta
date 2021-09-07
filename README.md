@@ -13,7 +13,11 @@ Amend this todo list as project progresses. Adding detailed notes below with lat
 
 To view current progress, visit https://prospra-11ty-11ta.pages.dev/
 
-## yymmdd Switch site
+## yymmdd Post-Switch
+- gcse with better logo (click for search tips)
+
+
+## yymmdd Switch Server
 Check and tidy all files, re-write this README, and redirect domain to Cloudflare Pages.
 
 ## yymmdd Posts Tidy
@@ -25,15 +29,15 @@ Check and tidy all files, re-write this README, and redirect domain to Cloudflar
 - check meta description length in spreadsheet
 
 ## yymmdd 404 Content
+Mindmup prepared
 
 ## yymmdd New Admin Pages
-- Purpose
-- Contact
-- Privacy
-- T&Cs
+- Purpose - Current phase: provide examples from my projects. Next phase: prepare generalized templates that help resolve common concerns (Q+A, Professional Consulting for various topics).
+- Contact - Raise or comment on <a href="https://github.com/kct2020/prospra-11ty-11ta/issues">PROSPRA Github Issues</a>
+- Privacy - Brave browser, serverless so no Personal Info stored, cookies optional. 3rd parties I use - link to privacy for Cloudflare, Clarity, AdSense
+- T&Cs - Information is presented for you to discuss with your professional advisers. It's up to you and your professional advisers to check my facts and evaluate my opinions and experiences. I'm trying to help you with generalized information. But you and your advisers must take responsibility for how you apply my information to your circumstances. What has worked for me, might not work for you.
 - Help
-- Search
-- gcse with better logo (click for search tips)
+- Search (including logo for gcse to be linked after server switch)
 
 ## 210904a Footer & Search
 - /about/ hierarchy on WordPress to be replaced by /about-prospra-com/ folder. Renamed src/about.md to src/about-prospra/about-prospra-com.md
