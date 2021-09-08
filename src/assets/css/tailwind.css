@@ -20,14 +20,14 @@ h3 {
 h4 {
 	@apply text-xl;
 }
-h5 {
+h5, dt {
 	@apply text-lg;
 }
 p a,
 li a,
 blockquote a,
 dd a {
-	@apply font-medium text-indigo-700;
+	@apply font-medium text-blue-700;
 }
 p {
 	@apply mt-4;
