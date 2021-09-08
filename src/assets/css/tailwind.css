@@ -17,10 +17,10 @@ h2 {
 h3 {
 	@apply text-2xl;
 }
-h4 {
+h4, dt {
 	@apply text-xl;
 }
-h5, dt {
+h5 {
 	@apply text-lg;
 }
 p a,
@@ -50,6 +50,9 @@ code {
 }
 pre code {
 	@apply bg-transparent border-0 rounded-none;
+}
+dd {
+	@apply p-2;
 }
 
 @tailwind components;
