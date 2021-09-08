@@ -38,6 +38,7 @@ Mindmup prepared
 - T&Cs - Information is presented for you to discuss with your professional advisers. It's up to you and your professional advisers to check my facts and evaluate my opinions and experiences. I'm trying to help you with generalized information. But you and your advisers must take responsibility for how you apply my information to your circumstances. What has worked for me, might not work for you.
 - Help
 - Search (including logo for gcse to be linked after server switch)
+At this time, I don't want to get bogged down with TailwindCSS. Because the default settings are mostly acceptable. However, there is no `<dt>` styling. So the Definition List titles get lost on the page. Therefore, I'll style dt like one of the heading tags for now. Then I can look deeper into styling once this site and others are up and running.
 
 ## 210904a Footer & Search
 - /about/ hierarchy on WordPress to be replaced by /about-prospra-com/ folder. Renamed src/about.md to src/about-prospra/about-prospra-com.md
