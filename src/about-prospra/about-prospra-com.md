@@ -51,7 +51,7 @@ PROSPRA.com serves as my personal activity arranger. So I can provide practical 
 
 Other pages that explain more about PROSPRA.com are being transferred from the old WordPress version of this website. The current details are at <a href="https://prospra.com/about-prospra/">About PROSPRA</a>. New pages for this 2021 version of PROSPRA.com are:
 <dl>
-<dt id="intent">Purpose </dt><dd>The purpose of KCT_TEMPLATE_siteName is to explain _PurposeSummary_.</dd>
+<dt id="intent">Purpose </dt><dd><a href="../purpose-of-prospra-com">The Purpose of PROSPRA.com</a> is to explain the PROSPRA principles for activity arranging. Complete with examples from Keith Taylor's projects.</dd>
 <dt id="contact">Contact </a></dt><dd>How to Contact Keith Taylor at PROSPRA.com.</dd>
 <dt id="privacy">Privacy </dt><dd>For details of information I keep about you see PROSPRA.com Privacy Policy.</dd>
 <dt id="terms">T&Cs </dt><dd>Terms and conditions for doing business with PROSPRA.com.</dd>
