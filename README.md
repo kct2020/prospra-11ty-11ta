@@ -4,7 +4,7 @@ Project notes here with original README below. Then I'll rewrite this if it work
 - deploy to Cloudflare Pages (Deploy CP). 
 - configure site basics (1st Config).
 - improve & customize 404 page
-- produce a version where variables are marked KCT_Template_Field so simply search for site variables and edit in Github as part of first step (Cloudflare Pages Deploy)
+- produce a version where variables are marked KCT_Template_Field so simply search for site variables and edit in Github as part of first step (Cloudflare Pages Deploy). Note that this is a template for all my new websites. But somewhere, I need to document thw WordPress Transmigration process. Because migration is about moving a WordPress installation between different servers. But transmigration is a "changing nationality" - in this case, from WordPress to Eleventy. Also note that the SIAB template would benefit from some easy theming options (site colors and other styling choices). But this might evolve as I implement on more sites. At which time, the Github suggested topic of `blog-theme` will apply. Also, might be nice to package it with options for Netlify & Cloudflare deployment - otherwise remove all Netlify code to avoid confusion.
 
 
 Then later:
@@ -31,9 +31,9 @@ Check and tidy all files, re-write this README, and redirect domain to Cloudflar
 ## yymmdd 404 Content
 Mindmup prepared
 
-## yymmdd New Admin Pages
-- Purpose - Current phase: provide examples from my projects. Next phase: prepare generalized templates that help resolve common concerns (Q+A, Professional Consulting for various topics).
-- Contact - Raise or comment on <a href="https://github.com/kct2020/prospra-11ty-11ta/issues">PROSPRA Github Issues</a>
+## 210912a New Admin Pages
+- Purpose - Current phase: provide examples from my projects. Next phase: prepare generalized templates that help resolve common concerns (Q+A, Professional Consulting for various topics). ✅
+- Contact - Raise or comment on <a href="https://github.com/kct2020/prospra-11ty-11ta/issues">PROSPRA Github Issues</a> ✅
 - Privacy - Brave browser, serverless so no Personal Info stored, cookies optional. 3rd parties I use - link to privacy for Cloudflare, Clarity, AdSense
 - T&Cs - Information is presented for you to discuss with your professional advisers. It's up to you and your professional advisers to check my facts and evaluate my opinions and experiences. I'm trying to help you with generalized information. But you and your advisers must take responsibility for how you apply my information to your circumstances. What has worked for me, might not work for you.
 - Help
