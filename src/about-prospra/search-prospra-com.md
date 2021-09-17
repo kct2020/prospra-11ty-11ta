@@ -35,7 +35,7 @@ tags:
   - using
 ---
 <h2 id="intro">Searching PROSPRA.com Introduction</h2>
-The best way to find answers to your PROSPRA questions is to type each question into the PROSPRA Search Engine. Or you can just type in one or two keywords to find all related articles.
+The best way to find answers to your PROSPRA questions is to type each question into <a href="https://cse.google.com/cse?cx=2bf1e05c3c5da97fa">the PROSPRA Search Engine</a>. Or you can just type in one or two keywords to find all related articles.
 
 On this page, I will add tips to help you find the right solutions to common activity arranging problems. Also, I'll add some helpful search engine commands that help you find relevant results.
 
