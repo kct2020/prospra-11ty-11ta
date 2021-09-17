@@ -35,6 +35,7 @@ tags:
   - using
 ---
 <h2 id="intro">Searching PROSPRA.com Introduction</h2>
+
 The best way to find answers to your PROSPRA questions is to type each question into <a href="https://cse.google.com/cse?cx=2bf1e05c3c5da97fa">the PROSPRA Search Engine</a>. Or you can just type in one or two keywords to find all related articles. After reading the results page(s) that interest you, you can return here by clicking the inage at the top of the search engine page:
 <img src="/assets/images/2021/click-for-prospra-com-search-tips.png" alt="PROSPRA.com Search Engine Logo" width="144" height="89">
 
@@ -47,4 +48,5 @@ On this page, I will add tips to help you find the right solutions to common act
 Please comment on <a href="https://github.com/kct2020/prospra-11ty-11ta/issues">PROSPRA.com Issues</a>. Or start a new issue if your concerns are not already being discussed (spot the big green `New Issue` button on that issues page). 
 
 <hr />
+
 Leave Search PROSPRA.com Page to read more <a href="/about-prospra/about-prospra-com">about PROSPRA.com</a>.
