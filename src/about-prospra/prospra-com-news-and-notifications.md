@@ -35,6 +35,7 @@ tags:
   - using
 ---
 <h2 id="intro">News & Notifications from PROSPRA.com</h2>
+
 I love when people subscribe to my free update services. And you should know that my News & Notifications Services are free of charge. Just like all the information on PROSPRA.com.
 
 During transition from WordPress to Eleventy, I'm upgrading my update services. Giving you the choice of the traditional news feed, and/or newer, curated notifications.
@@ -42,17 +43,21 @@ During transition from WordPress to Eleventy, I'm upgrading my update services. 
 Once the services are operational, I will add details here about how you join each service.
 
 <h3 id="news">PROSPRA.com News Services</h3>
+
 I'll continue with the old Feedburner service. Also, I'll add some notes about other RSS feed services that might help you follow updates from PROSPRA.com. This service notifies you about all new and changed pages.
 
 <h3 id="note">PROSPRA.com Notifications Services</h3>
+
 I'll start a new curated notification service. Mainly aimed at mobile users, I'll add notes about notifications for desktop and tablet visitors. This service saves you being inundated by minor corrections and structural changes. Because I manually notify you when I make substantial revisions.
 
 <img src="/assets/images/2021/prospra-news.webp" alt="PROSPRA.com News & Notifications" width="610" height="377">
 
 <h2 id="next">Your PROSPRA.com News & Notifications</h2>
+
 As noted, I've suspended the PROSPRA.com News & Notifications Services temporarily. But you can still get involved if you have concerns about how to stay updated.
 
 All you have to do is comment on a <a href="https://github.com/kct2020/prospra-11ty-11ta/issues">PROSPRA.com Issue</a>. Or start a new issue if your concerns are not already being discussed (spot the big green `New Issue` button on that issues page). 
 
 <hr />
+
 Leave PROSPRA.com News & Notifications Page to read more <a href="/about-prospra/about-prospra-com">about PROSPRA.com</a>.
