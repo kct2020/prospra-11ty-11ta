@@ -27,7 +27,7 @@ heroSettings:
   headingTextColor: # text-gray-800 # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   subheadingText: Sink your keith into setting your privacy standards.
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
-  image: 2021/about-prospra.webp # image URL
+  image: 2021/prospra-privacy.webp # image URL
   imagePosition: left # options = left, center, right
   imageOpacity: opacity-50 # options = opacity-25, opacity-50, opacity-75, opacity-100 (default)
   imageOpacityFilter: black # options = black or white (default) -> really depends on your background image
