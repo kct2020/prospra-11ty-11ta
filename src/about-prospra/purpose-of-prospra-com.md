@@ -35,17 +35,20 @@ tags:
   - using
 ---
 <h2 id="intro">Purpose of PROSPRA.com</h2>
+
 I developed my PROSPRA method to help me organize small projects. Also, to improve the efficency of recurring tasks. So the purpose of PROSPRA.com is to explain the principles of the PROSPRA method. Which I will do using examples of my own projects. Then I will develop practical templates that anyone can adapt for their specific needs.
 
 Note that I have evolved and improved PROSPRA over many years. So this website contains some older versions. However, I will review these to ensure that I use common terms throughout. In that regard, I might add a PROSPRA vocabulary to clarify the exact purpose of each PROSPRA step. But my current priority is to use the system for my own activity arranging needs.
 
 <h2 id="statement">Purpose Statement for PROSPRA.com</h2>
+
 My PROSPRA.com Purpose Statement for 2021 is:
 <blockquote>The Purpose of PROSPRA.com is currently to explain the PROSPRA principles for activity arranging. Complete with examples from Keith Taylor's projects.</blockquote>
 Subsequently, I will generate templates for common concerns based on those examples.
 
 <img src="/assets/images/2021/purpose-of-prospra-com.webp" alt="About PROSPRA.com" width="610" height="377">
 <h2 id="next">Your Purpose for PROSPRA.com</h2>
+
 I've explained why PROSPRA.com exists. And why you should use it to help arrange your activities more efficiently. So now it's time for you to think carefully about why you are here.
 
 For example, you might just want to find out more about PROSPRA.com. Or you might have a pressing concern that you want to resolve right now.
@@ -55,4 +58,5 @@ In the first case, continue to browse these 'About' pages. Then browse facts, ex
 In the second case, start a project now by writing down why you are here. And what you hope to achieve. Then follow the PROSPRA guidelines to continue improving your activities arrangement. Remember, PROSPRA guidelines are currently spread across many articles. But I will consolidate tips for each PROSPRA step during the next phase of developing this website. So for now, I recommend that you make your own notes about each PROSPRA step as you browse this website.
 
 <hr />
+
 Leave Purpose of PROSPRA.com to read more <a href="/about-prospra/about-prospra-com">about PROSPRA.com</a>.
