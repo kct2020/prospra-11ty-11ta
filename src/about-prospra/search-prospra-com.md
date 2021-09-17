@@ -2,6 +2,10 @@
 title: Search PROSPRA # will be overwritten by SEO.title below
 date: 2021-09-17
 layout: page
+eleventyNavigation:
+  key: main
+  title: Search # as it will appear in the nav
+  order: 9 # order to display in the nav
 seo:
   title: Search PROSPRA.com # overrides 'title' above on both Page and META
   description:  Will you help PROSPRA.com to improve? Collaboration is your best way to learn more about efficient Activity Arranging. So start assisting PROSPRA today.
