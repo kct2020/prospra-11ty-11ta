@@ -52,12 +52,12 @@ PROSPRA.com serves as my personal activity arranger. So I can provide practical 
 Other pages that explain more about PROSPRA.com are being transferred from the old WordPress version of this website. The current details are at <a href="https://prospra.com/about-prospra/">About PROSPRA</a>. New pages for this 2021 version of PROSPRA.com are:
 <dl>
 <dt id="intent">Purpose </dt><dd><a href="../purpose-of-prospra-com">The Purpose of PROSPRA.com</a> is to explain the PROSPRA principles for activity arranging. Complete with examples from Keith Taylor's projects.</dd>
-<dt id="contact">Contact </a></dt><dd>How to Contact Keith Taylor at PROSPRA.com.</dd>
-<dt id="privacy">Privacy </dt><dd>For details of information I keep about you see PROSPRA.com Privacy Policy.</dd>
-<dt id="terms">T&Cs </dt><dd>Terms and conditions for doing business with PROSPRA.com.</dd>
-<dt id="updates">Notifications </dt><dd>How to get notification about new and revised articles from PROSPRA.com.</dd>
-<dt id="help">Help </dt><dd>You can get general help using the Search feature below. Customized help is a 2-way street. Because I have to learn about you before I can customize information to help you arrange your activities. So the PROSPRA.com help pages will describe how you can get advanced help. Also, they deal with collaboration and how you help promote or improve PROSPRA.com.</dd>
-<dt id="search">Search </dt><dd>Tips to help you find quick answers about Activity Arranging at PROSPRA.com. For now, bookmark and use <a href="https://cse.google.com/cse?cx=2bf1e05c3c5da97fa">Google Activity Arranger</a>.</dd>
+<dt id="contact">Contact </a></dt><dd>How to <a href="../contact-prospra-com">Contact Keith Taylor at PROSPRA.com</a>.</dd>
+<dt id="privacy">Privacy </dt><dd>For details of information I keep about you see <a href="../prospra-com-privacy-policy">PROSPRA.com Privacy Policy</a>.</dd>
+<dt id="terms">T&Cs </dt><dd><a href="../prospra-com-terms-and-conditions">Terms and conditions</a> for doing business with PROSPRA.com.</dd>
+<dt id="updates">Notifications </dt><dd>How to get notification about new and revised articles from <a href="../prospra-com-news-and-notifications">PROSPRA.com update services</a>.</dd>
+<dt id="help">Help </dt><dd>You can get general help using the Search feature below. Customized help is a 2-way street. Because I have to learn about you before I can customize information to help you arrange your activities. So the <a href="../help-prospra-com">PROSPRA.com help page</a> will describe how you can get advanced help. Also, they deal with collaboration and how you help promote or improve PROSPRA.com.</dd>
+<dt id="search">Search </dt><dd>Tips to help you <a href="../search-prospra-com">find quick answers about Activity Arranging at PROSPRA.com</a>. For now, bookmark and use <a href="https://cse.google.com/cse?cx=2bf1e05c3c5da97fa">Google Activity Arranger</a>.</dd>
 </dl>
 <img src="/assets/images/2021/about-prospra.webp" alt="About PROSPRA.com" width="610" height="377">
 
