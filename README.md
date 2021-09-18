@@ -26,11 +26,16 @@ Check and tidy all files, re-write this README, and redirect domain to Cloudflar
 - Complete welcome post next steps and change "Logically organizing activities for less worry and more time." to "Logically organize activities to reach better goals."
 - Edit index.md and remove progress notes.
 - Start admin routine to evolve or delete old posts
-- 11ty favicon
 - check meta description length in spreadsheet
 
 ## yymmdd 404 Content
 Mindmup prepared, so change some content. But search engine image needs to be set after server-switch.
+
+## yymmdd Site Logos
+There are SVG logos (desktop and mobile) with instructions at <a href="/svg-shortcode/">SVG - Shortcode</a>. But I'm invested in WebP images for this site. So I'll leave learning about SVG (and probably Inkscape) for later. Which means changing `/src/_includes/components/nav.njk`. Also set favicons:
+- `src/assets/images/favicon/apple-touch-icon.png` (180x180)
+- `src/assets/images/favicon/favicon-16x16.png`
+- `src/assets/images/favicon/favicon-32x32.png`
 
 ## 210917a New Admin Pages
 - Purpose - Current phase: provide examples from my projects. Next phase: prepare generalized templates that help resolve common concerns (Q+A, Professional Consulting for various topics). ✅
