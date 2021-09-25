@@ -1,6 +1,8 @@
 ---
 title: PROSPRA T&C # will be overwritten by SEO.title below
 date: 2021-09-17
+excerpt: See your responsibilities and expectations about using PROSPRA.
+author: keith-taylor
 layout: page
 seo:
   title: PROSPRA.com Terms and Conditions # overrides 'title' above on both Page and META

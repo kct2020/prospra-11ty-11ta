@@ -1,6 +1,8 @@
 ---
 title: Search PROSPRA # will be overwritten by SEO.title below
 date: 2021-09-17
+excerpt: Tips to help you learn how to organize your activities.
+author: keith-taylor
 layout: page
 eleventyNavigation:
   key: main
@@ -8,7 +10,7 @@ eleventyNavigation:
   order: 9 # order to display in the nav
 seo:
   title: Search PROSPRA.com # overrides 'title' above on both Page and META
-  description:  Will you help PROSPRA.com to improve? Collaboration is your best way to learn more about efficient Activity Arranging. So start assisting PROSPRA today.
+  description:  The best way to find answers to your PROSPRA questions. Tips to help you learn how to organize your activities.
   image: 2021/search-prospra.webp
 images: # relative to /src/assets/images/
   feature:
