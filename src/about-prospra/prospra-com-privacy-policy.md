@@ -1,6 +1,8 @@
 ---
 title: PROSPRA Privacy # will be overwritten by SEO.title below
 date: 2021-09-15
+excerpt: See how PROSPRA.com meets all your privacy standards.
+author: keith-taylor
 layout: page
 seo:
   title: PROSPRA.com Privacy Policy # overrides 'title' above on both Page and META

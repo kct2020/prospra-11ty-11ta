@@ -1,6 +1,8 @@
 ---
 title: About PROSPRA # will be overwritten by SEO.title below
 date: 2021-09-04
+excerpt: History and tips about using the PROSPRA website.
+author: keith-taylor
 layout: page
 eleventyNavigation:
   key: main

@@ -16,17 +16,25 @@ To view current progress, visit https://prospra-11ty-11ta.pages.dev/
 
 ## yymmdd Post-Switch
 - gcse with better logo (click for search tips)
+- Start admin routine to evolve or delete old posts
+- check meta description length in spreadsheet
 
 
 ## yymmdd Switch Server
 Check and tidy all files, re-write this README, and redirect domain to Cloudflare Pages.
 
-## yymmdd Posts Tidy
+## 210925c Posts Tidy
+I should have sorted out the author settings before this stage. Because the blog can't show my author details. Also, it looks like the pages frontmatter needs amendment so that the tags list shows the same info as showing for posts. So, amendments for this are:
+- amend intro on `src/tags.njk`
+- add excerpt and author to admin pages frontmatter
+- add `src/assets/authors/keith-taylor.webp`
+- edit `src/authors.njk`
+
+Then complete tasks for this branch:
 - Delete old template posts.
+- Delete old home images.
 - Complete welcome post next steps and change "Logically organizing activities for less worry and more time." to "Logically organize activities to reach better goals."
 - Edit index.md and remove progress notes.
-- Start admin routine to evolve or delete old posts
-- check meta description length in spreadsheet
 
 ## 210925b 404 Content
 Mindmup prepared, so change some content. But search engine image needs to be set after server-switch.

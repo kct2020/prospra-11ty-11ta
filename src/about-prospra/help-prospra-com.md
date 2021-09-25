@@ -1,6 +1,8 @@
 ---
 title: Help PROSPRA # will be overwritten by SEO.title below
 date: 2021-09-17
+excerpt: Learn faster as you help PROSPRA to improve.
+author: keith-taylor
 layout: page
 seo:
   title: Help PROSPRA.com # overrides 'title' above on both Page and META
