@@ -64,4 +64,4 @@ Other pages that explain more about PROSPRA.com are being transferred from the o
 
 <hr />
 
-Leave About PROSPRA.com to read <a href="/">PROSPRA Activity Arranger</a>.
+Leave About PROSPRA.com to read <a href="/">PROSPRA Activity Arranger Home Page</a>.

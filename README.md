@@ -28,8 +28,22 @@ Check and tidy all files, re-write this README, and redirect domain to Cloudflar
 - Start admin routine to evolve or delete old posts
 - check meta description length in spreadsheet
 
-## yymmdd 404 Content
+## 210925b 404 Content
 Mindmup prepared, so change some content. But search engine image needs to be set after server-switch.
+
+## 210925b Workflow Note
+For all prior steps, I created a branch in Github, made the changes, then prevcheckediewed the latest automatic Cloudflare Pages preview before Pull Requesting back to main branch. However, this creates issues:
+1. Every commit starts a Cloudflare deploy, which can create a backlog where a few files need changing.
+2. It's very easy for me to work on the wrong branch in Github.
+3. File manipulation is tedious in Github.
+
+Github experts might have great ways round these issues. But in the past, I've found that Gitpod helps me. So I've moved to that. Although I still have to decide if I should Gitpod the main branch, or create a new Github branch first. For this update, I'm working on main branch in Gitpod. Later, as I promote my own templates, I'll consider other editing options. Including forestry.io.
+
+**NB:** I should not have used the main branch in Gitpod. Instead, the workflow should be:
+1. Create new branch in Github.
+2. Use new branch in Gitpod.
+3. Push amended new branch to Github (triggering Cloudflare Pages preview deployment)
+4. Push to main branch in Github (triggering live site deployment).
 
 ## 210925a Site Logos
 There are SVG logos (desktop and mobile) with instructions at <a href="/svg-shortcode/">SVG - Shortcode</a>. But I'm invested in WebP images for this site. So I'll leave learning about SVG (and probably Inkscape) for later. Which means changing `/src/_includes/components/nav.njk`. Also set favicons:
