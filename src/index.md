@@ -45,9 +45,9 @@ Currently, this site is under construction. Because I'm transmigrating from Word
 But there's plenty of content to help you arrange your activities. So I recommend you try one or all of the following...
 
 <dl id="content">
-<dt id="search"><a href="https://cse.google.com/cse?cx=2bf1e05c3c5da97fa">Search PROSPRA</a></dt><dd>I think now is a good time for you to bookmark that search PROSPRA link. Then you can keep asking questions and researching new PROSPRA topics.</dd>
-<dt id="old"></dt><a href="/prospra-wp-2020">Old PROSPRA Blog</a><dd>The articles that have been helping you organize your activities are still here. So please keep reading them and tell me which ones you want me to prioritize for review.</dd>
-<dt id="new"></dt><a href="/prospra-blog">New PROSPRA Blog</a><dd>Week by week, I will be adding new projects. Also, I'll review the old blog and gradually move the content to new articles. So please keep checking back to encourage my progress.</dd>
+<dt id="search"><p><a href="https://cse.google.com/cse?cx=2bf1e05c3c5da97fa">Search PROSPRA</a></p></dt><dd>I think now is a good time for you to bookmark that search PROSPRA link. Then you can keep asking questions and researching new PROSPRA topics.</dd>
+<dt id="old"><p><a href="/prospra-wp-2020">Old PROSPRA Blog</a></p></dt><dd>The articles that have been helping you organize your activities are still here. So please keep reading them and tell me which ones you want me to prioritize for review.</dd>
+<dt id="new"><p><a href="/prospra-blog">New PROSPRA Blog</a></p></dt><dd>Week by week, I will be adding new projects. Also, I'll review the old blog and gradually move the content to new articles. So please keep checking back to encourage my progress.</dd>
 </dl>
 
 But what if you still have concerns after reading all that? Simply share your questions, experiences, and opinions on the <a href="https://github.com/kct2020/prospra-11ty-11ta/issues">PROSPRA Issues Page</a>.

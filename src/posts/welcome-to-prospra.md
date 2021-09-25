@@ -41,9 +41,11 @@ Welcome to PROSPRA.
 I've published this website to help you arrange routine activities and small project tasks more efficiently.
 
 <h2 id="history">PROSPRA History</h2>
+
 The best way to see how PROSPRA has developed is to look through the <a href="/prospra-wp-2020">old WP PROSPRA blog articles</a> here. Also look at <a href="https://web.archive.org/web/20130616012046/http://prospra.com/">PROSPRA.com in The Wayback Machine</a>.
 
 <h2 id="status">PROSPRA Status</h2>
+
 Currently, I am moving PROSPRA.com from WordPress to the Eleventy Jamstack platform. I refer to this process as `WordPress transmigration`. Because I want to differentiate it from `WordPress migration`. As that normally refers to moving a WordPress installation from one server to another.
 
 <h2 id="intent">PROSPRA Intentions</h2>
