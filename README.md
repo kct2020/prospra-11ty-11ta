@@ -31,7 +31,7 @@ Check and tidy all files, re-write this README, and redirect domain to Cloudflar
 ## yymmdd 404 Content
 Mindmup prepared, so change some content. But search engine image needs to be set after server-switch.
 
-## yymmdd Site Logos
+## 210925a Site Logos
 There are SVG logos (desktop and mobile) with instructions at <a href="/svg-shortcode/">SVG - Shortcode</a>. But I'm invested in WebP images for this site. So I'll leave learning about SVG (and probably Inkscape) for later. Which means changing `/src/_includes/components/nav.njk`. Also set favicons:
 - `src/assets/images/favicon/apple-touch-icon.png` (180x180)
 - `src/assets/images/favicon/favicon-16x16.png`
