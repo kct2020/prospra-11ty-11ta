@@ -110,3 +110,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- src/posts/improve-wordpress-transmigration-transfer-routine.md
