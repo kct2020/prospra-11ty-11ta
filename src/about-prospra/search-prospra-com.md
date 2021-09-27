@@ -3,7 +3,7 @@ title: Search PROSPRA # will be overwritten by SEO.title below
 date: 2021-09-17
 excerpt: Tips to help you learn how to organize your activities.
 author: keith-taylor
-layout: page
+layout: post
 eleventyNavigation:
   key: main
   title: Search # as it will appear in the nav

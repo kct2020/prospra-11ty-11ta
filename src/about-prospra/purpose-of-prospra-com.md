@@ -3,7 +3,7 @@ title: PROSPRA Purpose # will be overwritten by SEO.title below
 date: 2021-09-08
 excerpt: Why PROSPRA.com exists, and why you might need PROSPRA to help organize activities.
 author: keith-taylor
-layout: page
+layout: post
 seo:
   title: Purpose of PROSPRA.com # overrides 'title' above on both Page and META
   description: Describes why PROSPRA.com exists. Explains why you might need PROSPRA to help organize activities. 

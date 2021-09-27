@@ -1,16 +1,16 @@
 {
-  "name": "sr-11ty-tailwind-alpine-template",
+  "name": "prospra-11ty-11ta",
   "version": "1.0.0",
-  "description": "Template for new projects with 11ty, TailwindCSS, TailwindUI, and Alpine.js",
-  "author": "Shane Robinson",
+  "description": "Source for PROSPRA.com",
+  "author": "Keith Taylor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template/issues"
+    "url": "https://github.com/kct2020/prospra-11ty-11ta/issues"
   },
-  "homepage": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template#readme",
+  "homepage": "https://github.com/kct2020/prospra-11ty-11ta#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template.git"
+    "url": "https://github.com/kct2020/prospra-11ty-11ta.git"
   },
   "keywords": [
     "11ty",

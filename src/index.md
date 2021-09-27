@@ -1,9 +1,10 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
 title: PROSPRA Activities Arranger
-layout: page
-excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
-author: # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
+layout: post
+date: 2021-09-27
+excerpt: The PROSPRA website Home Page.
+author: keith-taylor
 eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
   title: Welcome # as it will appear in the nav

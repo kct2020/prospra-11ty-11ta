@@ -3,7 +3,7 @@ title: About PROSPRA # will be overwritten by SEO.title below
 date: 2021-09-04
 excerpt: History and tips about using the PROSPRA website.
 author: keith-taylor
-layout: page
+layout: post
 eleventyNavigation:
   key: main
   title: About # as it will appear in the nav
