@@ -16,6 +16,11 @@ This project continues with progress notes recorded in Issues. Also, I will gene
 
 Branch commit / Pull Request notes from 11ta-template listed latest first.
 
+## 210927b Switch Server (3)
+My confusion regarding the point of dividing content between pages and posts continues. I guess I should research it, Because my lack of a definitive answer is slowing progress on my ideal template development. As far as the mechanics is concerned:
+- `src/_includes/components/nav.njk` only considers pages. So I've changed it to `collections.all`
+- `index.md` needed date and author
+
 ## 210927a Switch Server (2)
 I missed that social shares were included in post layouts. So I need to:
 - Delete sharing app from Cloudflare.

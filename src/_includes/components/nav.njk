@@ -1,4 +1,4 @@
-{% set navPages = collections.pages | eleventyNavigation %}
+{% set navPages = collections.all | eleventyNavigation %}
 <nav x-data="{ open: false }" class="{{ colors.navCustom.barBg or colors.navDefault.barBg }} shadow relative">
   <div class="px-8 md:px-16 lg:px-32">
     <div class="flex justify-between h-16">
