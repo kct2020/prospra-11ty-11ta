@@ -1,0 +1,111 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: author
+  label: author
+- type: field_group
+  name: seo
+  label: seo
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: description
+    label: description
+  - type: file
+    name: image
+    label: image
+- type: field_group
+  name: images
+  label: images
+  fields:
+  - type: text
+    name: feature
+    label: feature
+  - type: file
+    name: thumb
+    label: thumb
+  - type: text
+    name: align
+    label: align
+  - type: text
+    name: height
+    label: height
+- type: text
+  name: hero
+  label: hero
+- type: field_group
+  name: heroSettings
+  label: heroSettings
+  fields:
+  - type: field_group
+    name: height
+    label: height
+    fields:
+    - type: text
+      name: mobile
+      label: mobile
+    - type: text
+      name: desktop
+      label: desktop
+  - type: field_group
+    name: bg
+    label: bg
+    fields:
+    - type: text
+      name: color
+      label: color
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: imagePosition
+      label: imagePosition
+    - type: text
+      name: video
+      label: video
+    - type: text
+      name: opacityMobile
+      label: opacityMobile
+    - type: text
+      name: opacityDesktop
+      label: opacityDesktop
+  - type: text
+    name: headingText
+    label: headingText
+  - type: text
+    name: headingTextColor
+    label: headingTextColor
+  - type: text
+    name: subheadingText
+    label: subheadingText
+  - type: text
+    name: subheadingTextColor
+    label: subheadingTextColor
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: imagePosition
+    label: imagePosition
+  - type: text
+    name: imageOpacity
+    label: imageOpacity
+  - type: text
+    name: imageOpacityFilter
+    label: imageOpacityFilter
+- type: list
+  name: tags
+  label: tags
