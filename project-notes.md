@@ -4,13 +4,19 @@ This is a record of the steps I took to generate the prospra-11ty-11ta repo from
 
 I present these notes chronologically, with most recent at the top. So the main sections are:
 1. What Next
-2. Branch commit / Pull Request notes from 11ta-template
-3. Original 11ta-template README
+2. Snagging List
+3. Branch commit / Pull Request notes from 11ta-template
+4. Original 11ta-template README
 
 ***
 
 ## What Next
 This project continues with progress notes recorded in Issues. Also, I will generate a duplicate repo to create a template for my new and transmigrated sites.
+
+***
+
+## Snagging List
+- localhost changed in `src/_data/build.js` and `src/_data/meta.js`.
 
 ***
 
