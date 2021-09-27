@@ -3,7 +3,7 @@ title: PROSPRA News # will be overwritten by SEO.title below
 date: 2021-09-17
 excerpt: Get notifications about new PROSPRA articles and significant updates.
 author: keith-taylor
-layout: page
+layout: post
 seo:
   title: PROSPRA.com News and Notifications # overrides 'title' above on both Page and META
   description:  What's new at PROSPRA.com? Use the Activity Arranger news feed. Better still, get curated updates direct to your chosen notification device or service.

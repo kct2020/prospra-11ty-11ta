@@ -3,7 +3,7 @@ title: Contact PROSPRA # will be overwritten by SEO.title below
 date: 2021-09-09
 excerpt: How to contact Keith Taylor to discuss any aspect of PROSPRA.
 author: keith-taylor
-layout: page
+layout: post
 seo:
   title: Contact Keith Taylor at PROSPRA.com # overrides 'title' above on both Page and META
   description:  How to contact Keith Taylor to discuss any aspect of PROSPRA. From collaborating on PROSPRA.com pages. To questions about PROSPRA Activity Arranger methodology.

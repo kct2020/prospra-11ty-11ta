@@ -3,7 +3,7 @@ title: Help PROSPRA # will be overwritten by SEO.title below
 date: 2021-09-17
 excerpt: Learn faster as you help PROSPRA to improve.
 author: keith-taylor
-layout: page
+layout: post
 seo:
   title: Help PROSPRA.com # overrides 'title' above on both Page and META
   description:  Will you help PROSPRA.com to improve? Collaboration is your best way to learn more about efficient Activity Arranging. So start assisting PROSPRA today.

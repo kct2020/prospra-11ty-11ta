@@ -16,6 +16,12 @@ This project continues with progress notes recorded in Issues. Also, I will gene
 
 Branch commit / Pull Request notes from 11ta-template listed latest first.
 
+## 210927a Switch Server (2)
+I missed that social shares were included in post layouts. So I need to:
+- Delete sharing app from Cloudflare.
+- Turn reddit off in `src/_data/structure.js`.
+- <del>Add code to pages.</del> I'm going to treat all my content pages as posts and see how this looks before switching server.
+
 ## 210926a Switch Server
 Check and tidy all files, re-write this README, and redirect domain to Cloudflare Pages.
 I spotted that I overlooked the social links. But a repo search for `shanerobinson` soon told me where to change that. Also it pointed me to `package.json` that I need to update.
