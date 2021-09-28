@@ -37,7 +37,7 @@ tags: []
 ---
 ## WordPress Transmigration Transfer Routine Introduction
 
-Yesterday, I completed the transfer of this website from WordPress to Cloudflare. So I need to complete that transmigration by integrating old content with new. More importantly, I need to streamline my transfer routine. Because I have many more WordPress sites to transmigrate. 
+Yesterday, I completed the transfer of this website from WordPress to Cloudflare. So I need to complete that transmigration by integrating old content with new. More importantly, I need to streamline my transfer routine. Because I have many more WordPress sites to transmigrate.
 
 As expected, my first attempt took too long. Because I was working in a completely new environment. But I failed to grasp the consequences of not having a clear content integration plan. Especially, an efficient workflow for maintaining content.
 
@@ -60,6 +60,8 @@ In summary, this routine starts with a zipped file of a WordPress website. Becau
 ## WordPress Transmigration Transfer Routine Purpose
 
 The purpose of this PROSPRA project is to arrange the activities for WordPress website transmigration to Cloudflare Pages. Specifically, the data transfer phase which should take around 5 minutes (I hope).
+
+![Why transfer WordPress to the Cloud?](/assets/images/2021/why-transfer-wordpress-to-the-cloud.webp)
 
 ## Your WordPress Transmigration Transfer Routine
 
