@@ -9,12 +9,14 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: excerpt
   label: excerpt
 - type: text
   name: author
   label: author
+  default: keith-taylor
 - type: field_group
   name: seo
   label: seo
@@ -58,6 +60,7 @@ fields:
     - type: text
       name: mobile
       label: mobile
+      default: h-1/2
     - type: text
       name: desktop
       label: desktop
@@ -80,9 +83,11 @@ fields:
     - type: text
       name: opacityMobile
       label: opacityMobile
+      default: opacity-50
     - type: text
       name: opacityDesktop
       label: opacityDesktop
+      default: opacity-75
   - type: text
     name: headingText
     label: headingText
@@ -101,12 +106,15 @@ fields:
   - type: text
     name: imagePosition
     label: imagePosition
+    default: left
   - type: text
     name: imageOpacity
     label: imageOpacity
+    default: opacity-50
   - type: text
     name: imageOpacityFilter
     label: imageOpacityFilter
+    default: black
 - type: list
   name: tags
   label: tags
