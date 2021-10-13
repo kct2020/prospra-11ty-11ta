@@ -22,3 +22,4 @@ I could not have got this far without the wonderful gift of [Site In A Box (SIAB
 ## ToDo
 
 - Move technical development to a duplicated template repo and refocus this on improving content for PROSPRA.com
+- Fix ads.txt in root of output folder (using addPassthroughCopy)
