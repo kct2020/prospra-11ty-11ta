@@ -45,7 +45,7 @@
     "autoprefixer": "^9.8.6",
     "axios": "^0.21.1",
     "babel-loader": "^8.2.2",
-    "clean-css": "^4.2.3",
+    "clean-css": "^5.2.1",
     "cssnano": "^4.1.10",
     "dotenv": "^8.2.0",
     "html-minifier": "^4.0.0",
