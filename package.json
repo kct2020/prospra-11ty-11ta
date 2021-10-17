@@ -39,7 +39,7 @@
     "@11ty/eleventy-plugin-rss": "^1.1.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
     "@babel/core": "^7.12.13",
-    "@babel/preset-env": "^7.12.13",
+    "@babel/preset-env": "^7.15.8",
     "@tailwindcss/custom-forms": "^0.2.1",
     "alpinejs": "^2.8.0",
     "autoprefixer": "^9.8.8",
