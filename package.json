@@ -41,7 +41,7 @@
     "@babel/core": "^7.12.13",
     "@babel/preset-env": "^7.12.13",
     "@tailwindcss/custom-forms": "^0.2.1",
-    "alpinejs": "^2.8.0",
+    "alpinejs": "^3.4.2",
     "autoprefixer": "^9.8.8",
     "axios": "^0.21.1",
     "babel-loader": "^8.2.2",
