@@ -8,5 +8,5 @@ module.exports = {
   env: process.env.ELEVENTY_ENV,
   timestamp: new Date(),
   timezone: process.env.TIMEZONE || 'UTC',
-  url: process.env.URL || 'https://prospra.com',
+  url: process.env.URL || 'https://prospra-11ty-11ta.pages.dev',
 }

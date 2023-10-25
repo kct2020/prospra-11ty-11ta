@@ -42,7 +42,7 @@ I've published this website to help you arrange routine activities and small pro
 
 <h2 id="history">PROSPRA History</h2>
 
-The best way to see how PROSPRA has developed is to look through the <a href="/prospra-wp-2020">old WP PROSPRA blog articles</a> here. Also look at <a href="https://web.archive.org/web/20130616012046/http://prospra.com/">PROSPRA.com in The Wayback Machine</a>.
+The best way to see how PROSPRA has developed is to look through the <a href="/prospra-wp-2020">old WP PROSPRA blog articles</a> here. Also look at <a href="https://web.archive.org/web/20130616012046/http://prospra-11ty-11ta.pages.dev/">PROSPRA.com in The Wayback Machine</a>.
 
 <h2 id="status">PROSPRA Status</h2>
 
