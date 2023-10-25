@@ -1,5 +1,5 @@
 module.exports = {
-	siteURL: process.env.URL || 'https://prospra.com',
+	siteURL: process.env.URL || 'https://prospra-11ty-11ta.pages.dev',
 	siteName: "PROSPRA Activity Arranger",
 	siteDescription:
 		'7 Step Problem Solver & Task Organizer using PROSPRA Activity Arranger.',
